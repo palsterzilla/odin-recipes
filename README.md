@@ -1,7 +1,7 @@
 # Nusantara Recipes
 
-This is a simple web project to present some Nusantara recipes
-Part of [The Odin Project](https://www.theodinproject.com/) Foundations Course
+This is a simple web project to present some Nusantara recipes,
+part of [The Odin Project](https://www.theodinproject.com/) Foundations Course
 
 June 28, 2023. This is where it begins, you can do it!
 
